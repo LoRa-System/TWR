@@ -24,8 +24,8 @@
 ## 📜 Category
 
 
-* [IPv6-over-LoRaWAN 오픈 소스, Ic880a를 사용한 LoraWan 구축(21.04.10)]()
-* [Ipv6-over-LoRaWAN 테스트(21.04.10)]()
+* [IPv6-over-LoRaWAN 오픈 소스, Ic880a를 사용한 LoraWan 구축(21.04.10)](https://github.com/LoRa-System/TWR/blob/master/doc/IPv6-over-lorawan%20%EC%98%A4%ED%94%88%20%EC%86%8C%EC%8A%A4%2C%20Ic880a%EB%A5%BC%20%EC%82%AC%EC%9A%A9%ED%95%9C%20LoraWan%20%EA%B5%AC%EC%B6%95(21.04.10).md)
+* [Ipv6-over-LoRaWAN 테스트(21.04.10)](https://github.com/LoRa-System/TWR/blob/master/doc/Ipv6-over-LoRaWAN%20%ED%85%8C%EC%8A%A4%ED%8A%B8.md)
 
 
 <br>
